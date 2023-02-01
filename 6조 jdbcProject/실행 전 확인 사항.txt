@@ -1,0 +1,5 @@
+
+
+db명 bookingdb
+user = BookingConnection
+pwd = 0000
